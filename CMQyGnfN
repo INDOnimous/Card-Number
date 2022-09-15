@@ -10,16 +10,14 @@ $white = "\033[0m";
 $date   = date('d-M-Y H:i');
 //system("clear");
 echo $red . "
-___ ____ _____    ____              _
-|_ _/ ___|_   _|  / ___|__ _ _ __ __| |
- | | |     | |   | |   / _` | '__/ _` |
- | | |___  | |   | |__| (_| | | | (_| |
-|___\____| |_|    \____\__,_|_|  \__,_|
+
+
+CAPTAIN YORI
 
 ";
 echo $blue . "==================================";
 echo $bold . $green . "\nCoder   : php.Script Code
-Team    : INDOnimous Security Script
+Team    : CAPTAIN YORI Security Script
 Code    : PHP
 Version : 8.9.8.0
 Note: 
