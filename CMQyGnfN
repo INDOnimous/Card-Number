@@ -39,7 +39,7 @@ echo $bold . $cyan . "[name : ".str_replace("</span>", "", str_replace('<span cl
 		" [address : ".$matches[1][8]."]".
 		" [phone : ".$matches[1][9]."]\n";
 echo $red . "\n $$$$$$$$$$$$$$$ CARD INFORMATION $$$$$$$$$$$$$$$\n";
-echo $bold . $Yellow . "[email : ".$matches[1][10]."]".
+echo $bold . $yellow . "[email : ".$matches[1][10]."]".
 		" [card number : ".str_replace(" ", "", $matches[1][14])."]".
 		" [cvv : ".$matches[1][16]."]".
 		" [exp-date : ".$matches[1][15]."]\n";
